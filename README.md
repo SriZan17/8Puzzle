@@ -1,6 +1,7 @@
 # 8Puzzle Solver
 
 This project is a Python implementation of a solver for the 8-Puzzle game using search algorithms.
+![8Puzzle Example](puzzle_example.jpg)
 
 ## Files
 
